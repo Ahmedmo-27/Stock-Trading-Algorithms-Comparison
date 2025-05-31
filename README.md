@@ -57,7 +57,7 @@ Interactive comparison of two fundamental algorithmic trading approaches:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/stock-trading-algorithms-comparison.git
+git clone https://github.com/Ahmedmo-27/Stock-Trading-Algorithms-Comparison.git
 ```
 
 2. Install dependencies:
