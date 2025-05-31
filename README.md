@@ -1,7 +1,5 @@
 # Stock Trading Algorithms Comparison
 
-![Project Logo](docs/logo-miu.png)
-
 A web-based comparison of algorithmic approaches for optimal stock trading under transaction constraints.
 
 ## Table of Contents
