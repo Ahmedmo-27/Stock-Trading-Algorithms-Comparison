@@ -1,4 +1,4 @@
-0# Stock Trading Algorithms Comparison
+# Stock Trading Algorithms Comparison
 
 A comparison of algorithmic approaches for optimal stock trading with both C++ implementations and web visualization.
 
